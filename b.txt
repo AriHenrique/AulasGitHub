@@ -1,1 +1,2 @@
 testando clone github
+stash list teste
